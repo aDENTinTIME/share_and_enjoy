@@ -1,8 +1,12 @@
 # Share and Enjoy
 **ashfile** - Creates a Bash script, makes it executable, and opens it
 
+</br>
+
 ## Disclaimer
 I am still learning, proceed with a moderate measure of caution.
+
+</br>
 
 ## Setup - Create a custom bin directory
 The following code creates a hidden directory in your home directory and adds it to the PATH.
