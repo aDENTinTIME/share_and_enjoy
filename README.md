@@ -27,7 +27,7 @@ echo \#\!/bin/bash >> my_first_bash_script #create a new bash script
 echo "" >> my_first_bash_script #add new line to new bash script
 chmod a+x my_first_bash_script #make new bash script executable by all users
 if [ -e $(pwd)"/my_first_bash_script" ]; then echo -e "\nSUCCESS\n";\
-ls -lgG; else echo -e "\nFAILED\n"; fi #list the contents of .my_bin in long format #Checks if directory and file were created
+ls -lgG; else echo -e "\nFAILED\n"; fi #Checks if directory and file were created
 ```
 
 </br>
